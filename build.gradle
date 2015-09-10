@@ -1,3 +1,4 @@
+// Here is nother comment
 apply plugin: 'java'
 
 // In this section you declare where to find the dependencies of your project
