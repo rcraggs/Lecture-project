@@ -1,3 +1,3 @@
 # Lecture-project
 
-![My Image](image.png)
+![My Image](bad-cake.jpg)
