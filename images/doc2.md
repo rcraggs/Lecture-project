@@ -2,8 +2,4 @@
 
 system_documentation.m# Doc 2
 
-(a link)[system_documentation.md]
-
-
-
-d
+[a link](system_documentation.md)
